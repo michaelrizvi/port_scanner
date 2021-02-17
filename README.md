@@ -1,4 +1,5 @@
 # port_scanner
-A simple (not very good) port scanner made for the Practical Ethical Hacking course on UdeMy
+A simple (not very good) port scanner made for the course [Practical Ethical Hacking](https://www.udemy.com/course/practical-ethical-hacking/) on UdeMy
 ## Usage
+Pretty straightforward stuff. Just call it in the command line using the following command:
 ```python3 port_scanner.py <ip>```
